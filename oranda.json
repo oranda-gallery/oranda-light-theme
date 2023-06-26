@@ -1,4 +1,7 @@
 {
+    "project": {
+        "name": "oranda light theme"
+    },
     "styles" : {
         "theme": "light"
     }
